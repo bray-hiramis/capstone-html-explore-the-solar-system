@@ -16,4 +16,4 @@ I'm currently moving on to the **CSS** portion of the course to bring more life 
 
 ---
 
-💻 Check out the live preview (if available) or feel free to fork and customize it!
+💻 Check out the live preview (https://bray-hiramis.github.io/capstone-html-explore-the-solar-system/) or feel free to fork and customize it!
